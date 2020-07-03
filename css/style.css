@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.main{
+    background: url(../imagenes/fondo-madera.jpg );
+   
+}
+.navbar{
+    background-color: #631c1c!important;
+}
+#testimonio{
+    background:#f1f1f1; 
+  
+}
+
+footer{
+/*  background: url(imagenes/smartphones.png) no-repeat;*/
+background: #040302a6;
+}
+.contactos_title{
+    background: black;
+}
+.fondo-blanco{
+    background: #ffffff73;
+    padding: 1.5em;
+}
+
+.rounded-shadow{
+    border-radius: 0.65rem;
+    box-shadow: -1px 1rem 2rem;
+}
+
+.icons-redes{
+    
+}
