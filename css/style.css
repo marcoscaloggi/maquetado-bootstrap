@@ -13,6 +13,7 @@ body{
 }
 .main{
     background: url(../imagenes/fondo-madera.jpg );
+    overflow: hidden;
    
 }
 .navbar{
